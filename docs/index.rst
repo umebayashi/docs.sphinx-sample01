@@ -11,7 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
+   doc01
+   doc02
 
 Indices and tables
 ==================
